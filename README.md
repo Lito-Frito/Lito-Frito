@@ -11,8 +11,8 @@ Leveraging my teaching experience, I want to make technology more approachable a
 
 #### Quick Hits
 - 🔭 I’m currently working on getting my Master's!
-- 🌱 I’m currently learning about [encryption](https://github.com/crc8109/XOR-Encryption), SQL, IDS's and basic network and computer security
-- 👯 I’m looking to collaborate on anything that helps people! Currently working on getting kids in my community [internet for remote learning](https://github.com/crc8109/Magic-Schoolbus)
+- 🌱 I’m currently learning about data mining and computer networking!
+- 👯 I’m looking to collaborate on anything that helps people! 
 - 🤔 I’m looking for help with [how to get kids internet for school](https://github.com/crc8109/Magic-Schoolbus), leveling up my web development skills, and furthering my Python skills, especially around data science
 - 💬 Ask me about anything! My experience, my projects, my jobs, my program, whatever; I'm here to help!
 - 📫 How to reach me: [email](castillo.work@pm.me) is best!
