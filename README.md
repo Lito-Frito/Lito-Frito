@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Summary
-I'm a lifelong learner who's always interested in picking up a new skill to incorporate it into what I do. I'm also a self-taught programmer who loves Python! :snake: sss gang. Here's a [Github resume](https://resume.github.io/?Lito-Frito) to give you an overview of some of my projects. I've also a [blog](www.crc8109.com/) that explains in lighter detail the purpose and value of the projects I've made.
+I'm a lifelong learner who's always interested in picking up a new skill to incorporate it into what I do. I'm also a self-taught programmer who loves Python! :snake: sss gang. Here's a [Github resume](https://resume.github.io/?Lito-Frito) to give you an overview of some of my projects. I've also a [blog](https://www.crc8109.com/) that explains in lighter detail the purpose and value of the projects I've made.
 
 I have a degree in accounting and I've worked in finance for a few years. I'm currently pursuing a Master's in IT at [UMass Lowell](https://gps.uml.edu/degrees/grad/online-master-information-technology-degree.cfm). 
 
