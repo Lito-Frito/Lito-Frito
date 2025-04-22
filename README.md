@@ -8,8 +8,8 @@ I have a degree in accounting and I've worked in finance for a few years. I'm cu
 Leveraging my teaching experience, I want to make technology more approachable and understandable by anyone. My exposure and studies around GAAP and Sarbanes Oxley has led me to want to create a framework to audit tech companies on the code they create and their collection, usage, and storage of data in order to benefit both users and companies. My life-long goal is to prevent future incidents like the [Equifax hack](https://www.cnet.com/news/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/) from happening again and ensuring users and companies are on the same page about [what's being asked from them](https://www.washingtonpost.com/news/the-switch/wp/2017/04/19/bose-headphones-have-been-spying-on-their-customers-lawsuit-claims/) when they use tech. 
 
 #### Quick Hits
-- 🔭 I’m currently working on getting my Master's!
-- 🌱 I’m currently learning about Terraform and Google Cloud!
+- 🔭 I’m currently looking for work!
+- 🌱 I’m currently learning about cybersecurity tools, like Snort and Nmap!
 - 👯 I’m looking to collaborate on anything that helps people! 
 - 🤔 I’m looking for help with [how to get kids internet for school](https://github.com/crc8109/Magic-Schoolbus), leveling up my web development skills, and furthering my Python skills, especially around data science
 - 💬 Ask me about anything! My experience, my projects, my jobs, my program, whatever; I'm here to help!
